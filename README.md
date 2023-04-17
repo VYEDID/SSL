@@ -1,4 +1,4 @@
-# Sintaxis y Semántica de los Lenguajes
+# Sintaxis y Semántica de los Lenguaje de programación
 
 ## TP 0
 
